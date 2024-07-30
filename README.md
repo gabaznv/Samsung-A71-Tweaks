@@ -1,2 +1,4 @@
-# Samsung-A71-Tweaks
-These are some really cool tweaks for the Samsung A71 (SM-A175F)
+# Tweaks
+* <a href="#">Floating Features</a>
+- <a href="#">Camera Tweaks</a>
+* <a href="#">Debloat</a>
